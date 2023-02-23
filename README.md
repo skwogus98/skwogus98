@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&desc=skwogus98's%20GitHub&fontSize=90)
 
 <div>
-  📧email: zkxmwogus@naver.com<br>
+  📧e-mail: zkxmwogus@naver.com<br>
   📱phone: 010-5044-5388
 </div>
 
